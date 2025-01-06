@@ -9,7 +9,9 @@ Hardware architecture of the system
 ![image](https://github.com/user-attachments/assets/d7808617-5b47-44f5-a266-9fa04ee39fb9)
 
 Software logic of the system
+
 (For Arduino, the completed code is "BT_MOTOR_MEGA_TEST_2017_3")
+
 (For Python, the completed code is "main program.py")
 
 ![image](https://github.com/user-attachments/assets/1c7339c4-531b-477a-a917-df8164af1312)
