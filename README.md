@@ -12,7 +12,7 @@ Software logic of the system
 
 (For Arduino, the completed code is "BT_MOTOR_MEGA_TEST_2017_3")
 
-(For Python, the completed code is "main program.py")
+(For Raspberry, the completed code is "main program.py")
 
 ![image](https://github.com/user-attachments/assets/1c7339c4-531b-477a-a917-df8164af1312)
 
